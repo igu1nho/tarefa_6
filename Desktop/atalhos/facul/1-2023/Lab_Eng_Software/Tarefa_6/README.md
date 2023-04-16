@@ -1,4 +1,4 @@
-# Exercício Aula 6 - API
+# Exercício Aula 7 - Teste Unitário
 
 ## Para executar o código
 
